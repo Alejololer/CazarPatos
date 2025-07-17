@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798585141252",
+    "project_id": "proyecto-cazar-patos",
+    "storage_bucket": "proyecto-cazar-patos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798585141252:android:2edbbe6c69eeb653f9dd51",
+        "android_client_info": {
+          "package_name": "carlos.aleman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuBDMvpcsEqLXPfjkvsZSOtwxMwk6cJPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
